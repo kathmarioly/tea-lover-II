@@ -14,5 +14,10 @@ susNewsletter.addEventListener("click", function(){
 	}if (address.length == 0 || address == ""){
 		alert("DIRECCION no válida!!");
 	}
+	if(tipos == 0 || tipos == null){
+		alert("Escoge tu té FAVORITO!!");
+	}else{
+		alert("Muchas gracias por SUSCRIBIRTE!!")
+	}
 
 });
