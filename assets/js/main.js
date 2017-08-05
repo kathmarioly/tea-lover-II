@@ -21,3 +21,4 @@ susNewsletter.addEventListener("click", function(){
 	}
 
 });
+
